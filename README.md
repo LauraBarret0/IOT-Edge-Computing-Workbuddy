@@ -1,5 +1,11 @@
 # WorkBuddy – Monitoramento de Bem-Estar no Ambiente de Trabalho 
 
+## Grupo:
+    Laura Barreto           - RM 561965
+    Natalia Camargo         - RM 565769
+
+   
+
 Assista ao vídeo no YouTube clicando no banner abaixo.
 
 [![Assista ao vídeo](assets/8.jpg)](https://www.youtube.com/watch?v=d10wl5W8q14)
