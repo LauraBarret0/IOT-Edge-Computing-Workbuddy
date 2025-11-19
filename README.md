@@ -1,5 +1,7 @@
 # WorkBuddy – Monitoramento de Bem-Estar no Ambiente de Trabalho 
 
+Assista ao vídeo no YouTube clicando no banner abaixo.
+
 [![Assista ao vídeo](assets/8.jpg)](https://www.youtube.com/watch?v=d10wl5W8q14)
 
 
