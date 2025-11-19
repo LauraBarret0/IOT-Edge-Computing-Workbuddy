@@ -1,8 +1,7 @@
     # WorkBuddy – Monitoramento de Bem-Estar no Ambiente de Trabalho 
 
-    <div style="text-align: center;">
-    <img src="./assets/favicon.png" style="width: 400px;">
-    </div>
+    [![Assista ao vídeo](assets/8.jpg)](https://www.youtube.com/watch?v=d10wl5W8q14)
+
 
 
 
@@ -150,7 +149,6 @@
 
     ## 🌐 Link da Simulação Wokwi
 
-    Adicione aqui o link:
 
     ```
     https://wokwi.com/projects/447996331973310465
@@ -176,7 +174,7 @@
     No terminal da sua VM Azure:
 
     ```bash
-    cd server
+    cd backend
     npm install
     ```
 
@@ -194,7 +192,6 @@
 
     ```
     Servidor rodando na porta 80...
-    Aguardando dados do ESP32...
     ```
 
     ---
